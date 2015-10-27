@@ -19,7 +19,7 @@ bundle install
 
 ### Supported Ruby Versions
 
-The TFL API Client supports Ruby 2.2.0 or higher. 
+Salesforce.com Live Chat Client supports Ruby 2.2.0 or higher. 
 
 
 ## Usage
