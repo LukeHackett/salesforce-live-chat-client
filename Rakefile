@@ -18,5 +18,5 @@ end
 
 desc 'Runs the entire test suite'
 RSpec::Core::RakeTask.new(:test) do |spec|
-  spec.pattern = FileList['spec/*/*.rb']
+  spec.pattern = FileList['spec/**/*.rb']
 end

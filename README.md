@@ -4,7 +4,7 @@ An example Live Agent REST API implementation using Ruby. In addition to a clien
 developed, to support incoming chat requests in an automated manner. 
 
 [![Build Status](https://travis-ci.org/LukeHackett/salesforce-live-chat-client.svg)](https://travis-ci.org/LukeHackett/salesforce-live-chat-client)
-[![Code Climate](https://codeclimate.com/github/LukeHackett/salesforce-live-chat-client/badges/gpa.svg)](https://codeclimate.com/github/LukeHackett/salesforce-live-chat-client)
+[![Coverage Status](https://coveralls.io/repos/LukeHackett/salesforce-live-chat-client/badge.svg?branch=master&service=github)](https://coveralls.io/github/LukeHackett/salesforce-live-chat-client?branch=master)
 
 
 ## Installation

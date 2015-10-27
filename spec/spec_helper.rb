@@ -23,12 +23,12 @@
 # WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Additional Test Imports
-require_relative 'support/coverage'
-require_relative 'support/vcr'
-require_relative 'support/helpers'
+require 'support/coverage'
+require 'support/vcr'
+require 'support/helpers'
 
 # Load the Library
-require_all 'lib'
+require 'live_chat'
 
 # The `.rspec` file also contains a few flags that are not defaults but that
 # users commonly want.

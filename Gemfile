@@ -6,9 +6,6 @@ gem 'rake', '~> 10.0'
 # Generate documentation
 gem 'yard', '~> 0.8.7'
 
-# A wonderfully simple way to load your code
-gem 'require_all', '~> 1.3'
-
 # Use RSpec for testing the implementation
 gem 'rspec', '~> 3.3'
 gem 'fuubar', '~> 2.0'
