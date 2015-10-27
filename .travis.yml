@@ -1,0 +1,18 @@
+language: ruby
+sudo: false
+cache: bundler
+
+rvm:
+  - 2.2.3
+
+before_install:
+  - gem uninstall bundler
+  - gem install bundler --version '~> 1.10'
+
+script:
+  - bundle exec rake
+
+notifications:
+  email:
+    on_success: change
+    on_failure: always
