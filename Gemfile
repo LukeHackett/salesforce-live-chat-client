@@ -22,3 +22,4 @@ gem 'webmock', '~> 1.22'
 
 # Code Coverage using SimpleCov
 gem 'simplecov', '~> 0.10'
+gem 'coveralls', '~> 0.8.2'
